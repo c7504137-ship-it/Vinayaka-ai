@@ -1,0 +1,6 @@
+{
+  "name": "Vinayaka AI",
+  "description": "Vinayaka AI: The Intelligent Digital Companion. Built on an orchestrator and state-driven emotional avatar, bringing offline memory, command control, and study layouts to Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
